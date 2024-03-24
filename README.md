@@ -87,8 +87,11 @@ Furthermore, facilitates by providing support for managing art exhibitions, auct
 <i>COMING SOON....</i>
 
 ## OUTPUT SNAPSHOTS :
-- ### Home Screen Images (Before Login) -
-<img src="https://github.com/0xfarben/offender-track/blob/main/screens/1p_1photo.png" width="800"/> 
+- ### Home Screen Images (First shot) -
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/5641c153-6ee6-41dd-97b5-cf0cd62d241c" width="800"/> 
+- ### Home Screen Images (Second shot) -
+<img src="" width="800"/> 
+
 
 - ### Home Screen Image (After Login) -
 #### Only after logging-in, a user can register a F.I.R.
