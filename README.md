@@ -49,7 +49,6 @@ Furthermore, facilitates by providing support for managing art exhibitions, auct
 ## DB TABLE SCHEMA - DESC
 ![DB TABLE SCHME DESCRIPTION](https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/de1ad50c-2df1-4bc8-b2f0-023deed36eea)
 
-
 ## ER - DIAGRAM
 ![ENTITY RELATIONSHIP DIAGRAM](https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/31a29148-ae27-4060-b7c0-dfaef10dc893)
 
