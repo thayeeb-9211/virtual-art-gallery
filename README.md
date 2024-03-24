@@ -99,28 +99,41 @@ Furthermore, facilitates by providing support for managing art exhibitions, auct
 - ### Home Screen Images (Fourth shot) -
 <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/fe369bd4-bcd5-476e-b450-c0587bd9a120" width="800"/> 
 
-- ### Home Screen Images (Fourth shot) -
+- ### Home Screen Images (Fifth shot) -
 <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/58eb6f0a-f1ea-4b41-974c-f86d0a457e5a" width="800"/> 
 
-- ### Home Screen Images (Fifth shot) -
+- ### Home Screen Images (Sixth shot) -
 <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/11fd8230-5e80-4bf9-897a-fcc8f4a44ade" width="800"/> 
 
-- ### Home Screen Images (Fifth shot) -
+- ### Home Screen Images (Seventh shot) -
 <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/1cc7e272-d4bf-4488-ae2a-55d86d066cac" width="800"/> 
 
-- ### Home Screen Images (Fifth shot) -
+- ### Home Screen Images (Eight shot) -
 <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/00e03454-74ee-4111-a8f3-2b0455b40a07" width="800"/> 
 
-- ### Home Screen Images (Fifth shot) -
+- ### Home Screen Images (Ninth shot) -
 <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/e7304c47-f7d7-4f4c-81a2-706a933150ed" width="800"/> 
 
+- ### Art Description Images (1st shot) -
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/88d1ae17-f2de-4460-88ec-6805b801183f" width="800"/> 
 
-- ### Home Screen Image (After Login) -
-#### Only after logging-in, a user can register a F.I.R.
-<img src="https://github.com/0xfarben/offender-track/blob/main/screens/after_login.png" width="800" />
+- ### Art Description Images (2nd shot) -
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/44836ce2-f4fe-40ec-96a6-1f31b6f2898d" width="800"/> 
 
-- ### Login && Register Page -
+- ### Art gallery experience Images -
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/c6eb510f-7990-474d-8670-d4dba574a8fd" width="800"/> 
+
+- ### Art gallery checkout Images -
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/cff4603a-9d71-40b8-ad7c-85af528b398b" width="800"/> 
+
+- ### Checkout page leads to billing page only if you are logged in else it pushes up register page to either register or login.
+
+- ### Login & Register Page -
 <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/38c5639d-e183-44d2-8acd-1b505c9fd8ce" width="800"/> <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/38dfe335-67fe-4427-9a9a-96ce006db1e7" width="800"/> 
+
+- ### Billing section -
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/0ecaa7f0-534b-46cf-880c-3f6ba5fbb568)g" width="800" />
+
 
 - ### F.I.R Registration -
 #### The Logged user should fill all the necessary details in this form.
