@@ -1,16 +1,47 @@
 # VIRTUAL_ART_GALLERY
 Discover a realm where creativity thrives and imagination knows no bounds: our Virtual Art Gallery Management System. Seamlessly merging the power of PHP and MySQL for a robust backend, and HTML, CSS, JS, Tailwind, AJAX, and jQuery for an enchanting frontend experience, this platform redefines art appreciation. 
 
-<p align="center">
-  <img width="460" height="300" src=(https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/568961bf-e05e-477d-a692-761d856bb2c4)>
-</p>
 ![e8e149a7338aa1ac14e2f8f46137c31f9dbfb2e9](https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/568961bf-e05e-477d-a692-761d856bb2c4)
 
 ## ABSTRACT
-The Crime Reporting Management System (CRMS) is designed to streamline the reporting, tracking, and management of criminal incidents. It offers a centralized platform for citizens to report crimes and for authorities to investigate and oversee the process. Using advanced database technologies, CRMS ensures efficient data storage, retrieval, and analysis, facilitating prompt law enforcement responses. CRMS comprises user-friendly interfaces for citizens and a robust database infrastructure for storing incident data.
+This report presents the design and implementation of a Virtual Art Gallery Management System (VAGMS) aimed at providing a seamless and immersive experience for art enthusiasts, collectors, and artists alike. Leveraging cutting-edge virtual reality (VR) technology and robust database management, VAGMS offers users the ability to explore diverse collections of artworks from the comfort of their own homes.
+Key features include a user-friendly interface for browsing, searching, and filtering artwork based on various criteria such as artist, genre, medium, and price. The system also incorporates advanced visualization techniques, allowing users to view high-resolution images of artwork and even experience them in virtual 3D spaces.
+Furthermore, facilitates by providing support for managing art exhibitions, auctions, and events within the virtual platform. Additionally, the system offers comprehensive management tools for artists and gallery administrators, including database portfolio management, enquiry tracking, and Data analytics.
+
+## PURPOSE
+	• The purpose of an Art Gallery Management System is to efficiently organize and streamline various aspects of art gallery operations, including:
+	• Cataloging and organizing artworks, including details such as artist, medium, dimensions, and pricing.
+	• Managing and tracking the gallery's inventory, ensuring accurate records of available artworks.
+	• Facilitating the sales process, from generating invoices to tracking transactions, and managing financial aspects.
+	• Maintaining comprehensive records of artists, their portfolios, and relevant details.
+	• Enhancing customer interactions by keeping track of purchase histories, preferences, and contact information for personalized services.
+	• Providing insights through reporting and analytics for informed decision-making and strategic planning.
+	• The system aims to improve overall gallery efficiency, enhance customer experience, and contribute to better decision-making for gallery management.
 
 ## OBJECTIVES
-The objective of the crime reporting management system is to streamline the process of reporting incidents while enhancing efficiency and accuracy. By providing a user-friendly interface accessible to both law enforcement personnel and the general public, the system aims to improve accessibility and ensure timely recording of crimes.
+	• The main objective of the project is to design and develop a user friendly-system, Easy to use and an efficient computerized system.
+	• The Virtual Art Gallery's primary objective is to simplify and enhance the management of online art galleries. 
+	• It streamlines various administrative tasks, including artwork uploads, artist collaborations, and customer interactions.
+	• This approach reduces paper waste and promotes sustainable practices in art gallery management.
+	• In today's digital age, the art world is expanding its horizons through innovative online platforms. 
+	• Artists can now reach a global audience and art enthusiasts can explore and purchase artwork from the comfort of their homes.
+	• To develop an accurate and flexible systems so that it will eliminate data redundancy.
+	• To make a software fast in processing, with good user interface.
+	• To provide better Graphical User Interface (GUI).
+
+## LIMITATIONS
+	• May get Vulnerable to disruptions from technical issues.
+	• Initial and ongoing costs for implementation and maintenance.
+	• Challenges in integrating with other tools or databases.
+
+
+## PROJECT SCOPE
+	• Streamline gallery operations and enhance overall efficiency.
+	• Manage artwork, artist information, inventory, and sales.
+	• Customer relationship management features for improved interactions.
+	• Focus on usability, accessibility, and intuitive user interfaces.
+	• Regular updates to address evolving gallery management needs.
+	• Potential limitations considered for effective system implementation. 
 
 ## SCHEMA - DIAGRAM
 <a href=""><img src="https://iili.io/JWWPEZJ.jpg" alt="JWWPEZJ.jpg" border="0"></a>
