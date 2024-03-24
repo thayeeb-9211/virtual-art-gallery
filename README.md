@@ -2,9 +2,9 @@
 Discover a realm where creativity thrives and imagination knows no bounds: our Virtual Art Gallery Management System. Seamlessly merging the power of PHP and MySQL for a robust backend, and HTML, CSS, JS, Tailwind, AJAX, and jQuery for an enchanting frontend experience, this platform redefines art appreciation. 
 
 
-<h1>Crime Management System (Offender-Track)</h1>
 <div align="center">
-  <a><img src="![alt text](image.png)" alt="LOGO"/></a>
+  <a><img src="![e8e149a7338aa1ac14e2f8f46137c31f9dbfb2e9](https://github.com/thayeeb-9211/VIRTUAL_ART_GALLERY_MANAGEMENT_SYS-EM/assets/158462007/d57c334e-6a4e-4248-8663-22aa1ba486c2)
+" alt="LOGO"/></a>
 </div>
 
 ## ABSTRACT
