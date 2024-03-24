@@ -67,7 +67,12 @@ Furthermore, facilitates by providing support for managing art exhibitions, auct
 
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 
-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+- ![Static Badge](https://img.shields.io/badge/PHP-black?style=plastic&logo=php&logoColor=black&color=%23777BB4)
+
+- ![Static Badge](https://img.shields.io/badge/Tailwind-black?style=plastic&logo=tailwind%20css&color=%2306B6D4)
+
+- ![Static Badge](https://img.shields.io/badge/JQUERY-black?style=plastic&logo=tailwind%20css&color=%230769AD)
+
 
 ### Database :
 - ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
@@ -75,33 +80,6 @@ Furthermore, facilitates by providing support for managing art exhibitions, auct
 ### Version Control :
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 
-## RUN LOCALLY :
-
-### Node must be installed on your local machine to run locally. Install it from : <a href="https://nodejs.org/" >NODE JS</a>
-### After installing Node follow below steps.
-Clone the project
-
-```bash
-  git clone https://github.com/0xfarben/offender-track
-```
-
-Go to the project directory
-
-```bash
-  cd offender-track
-```
-
-On the project directory
-
-```bash
-  npm install package.json
-```
-
-Run the application
-
-```bash
-  npm start
-```
 
 
 ## DEMO VIDEO
@@ -117,7 +95,7 @@ Run the application
 <img src="https://github.com/0xfarben/offender-track/blob/main/screens/after_login.png" width="800" />
 
 - ### Login && Register Page -
-<img src="https://github.com/0xfarben/offender-track/blob/main/screens/login.png" width="800"/> <img src="https://github.com/0xfarben/offender-track/blob/main/screens/signup.png" width="800"/> 
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/38c5639d-e183-44d2-8acd-1b505c9fd8ce" width="800"/> <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/38dfe335-67fe-4427-9a9a-96ce006db1e7" width="800"/> 
 
 - ### F.I.R Registration -
 #### The Logged user should fill all the necessary details in this form.
