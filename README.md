@@ -100,7 +100,16 @@ Furthermore, facilitates by providing support for managing art exhibitions, auct
 <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/fe369bd4-bcd5-476e-b450-c0587bd9a120" width="800"/> 
 
 - ### Home Screen Images (Fifth shot) -
-<img src="" width="800"/> 
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/11fd8230-5e80-4bf9-897a-fcc8f4a44ade" width="800"/> 
+
+- ### Home Screen Images (Fifth shot) -
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/1cc7e272-d4bf-4488-ae2a-55d86d066cac" width="800"/> 
+
+- ### Home Screen Images (Fifth shot) -
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/00e03454-74ee-4111-a8f3-2b0455b40a07" width="800"/> 
+
+- ### Home Screen Images (Fifth shot) -
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/e7304c47-f7d7-4f4c-81a2-706a933150ed" width="800"/> 
 
 
 - ### Home Screen Image (After Login) -
