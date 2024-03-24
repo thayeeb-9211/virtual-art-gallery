@@ -129,33 +129,8 @@ Furthermore, facilitates by providing support for managing art exhibitions, auct
 - ### Checkout page leads to billing page only if you are logged in else it pushes up register page to either register or login.
 
 - ### Login & Register Page -
-<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/38c5639d-e183-44d2-8acd-1b505c9fd8ce" width="800"/> <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/38dfe335-67fe-4427-9a9a-96ce006db1e7" width="800"/> 
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/38c5639d-e183-44d2-8acd-1b505c9fd8ce" width="800"/> 
+<img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/7c660f24-a9c1-4476-8190-3ba2c394a8de" width="800"/> 
 
 - ### Billing section -
 <img src="https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/0ecaa7f0-534b-46cf-880c-3f6ba5fbb568)g" width="800" />
-
-
-- ### F.I.R Registration -
-#### The Logged user should fill all the necessary details in this form.
-<img src="https://github.com/0xfarben/offender-track/blob/main/screens/fir1.png" width="800"/>
- <img src="https://github.com/0xfarben/offender-track/blob/main/screens/fir2.png" width="800"/>  
- <img src="https://github.com/0xfarben/offender-track/blob/main/screens/fir3.png" width="800"/>
-
-- ### F.I.R ID -
-#### ID is provided only after successful submission of the FIR form.
-<img src="https://github.com/0xfarben/offender-track/blob/main/screens/s_fir2.png" width="800"/>
-
-- ### Crime Records Display -
-#### This page contains all the FIRs registered.
-<img src="https://github.com/0xfarben/offender-track/blob/main/screens/crime_records.png" width="800"/>
-
-- ### Search by FIR ID -
-#### Displays the Crime record of specified FIR ID.
-<img src="https://github.com/0xfarben/offender-track/blob/main/screens/search_fir.png" width="800"/>
-
-- ### CRUD operations -
-#### Only admin can perform these actions/ operations.
-<img src="https://github.com/0xfarben/offender-track/blob/main/screens/crud.png" width="800"/>
-
-
-
