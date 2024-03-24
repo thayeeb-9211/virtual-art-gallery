@@ -44,10 +44,15 @@ Furthermore, facilitates by providing support for managing art exhibitions, auct
 	• Potential limitations considered for effective system implementation. 
 
 ## SCHEMA - DIAGRAM
-<a href=""><img src="https://iili.io/JWWPEZJ.jpg" alt="JWWPEZJ.jpg" border="0"></a>
+![DB SCHEMA REPRESENTATION](https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/a5272907-9354-4a86-a499-289129c83134)
+
+## DB TABLE SCHEMA - DESC
+![DB TABLE SCHME DESCRIPTION](https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/de1ad50c-2df1-4bc8-b2f0-023deed36eea)
+
 
 ## ER - DIAGRAM
-<a href=""><img src="https://iili.io/JWXdR6P.png" alt="JWXdR6P.png" border="0"></a>
+![ENTITY RELATIONSHIP DIAGRAM](https://github.com/thayeeb-9211/virtual-art-gallery/assets/158462007/31a29148-ae27-4060-b7c0-dfaef10dc893)
+
 
 ## TECHNOLOGY USED
 
